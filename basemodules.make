@@ -1,6 +1,5 @@
 ; All modules always wanted
 
-projects[][subdir] = "contrib"
 
 projects[admin_menu][version] = "3.0-rc4"
 projects[admin_views][version] = "1.1"
