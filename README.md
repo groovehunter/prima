@@ -1,4 +1,5 @@
-prima
-=====
+PRIMA
+Personal Relationships and Information MAnagement
+=================================================
 
-Personal relationships information management
+A customized CRM for personal management of contacts and more

@@ -1,0 +1,37 @@
+name = Openspirit
+core = 7.x
+description = groovehunter's install profile based on buildkit
+
+; Core
+dependencies[] = book
+dependencies[] = block
+dependencies[] = dblog
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = locale
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = path
+dependencies[] = taxonomy
+
+; Contrib
+dependencies[] = admin_menu
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = ctools
+dependencies[] = devel
+dependencies[] = dhtml_menu
+dependencies[] = features
+dependencies[] = fe_profile
+dependencies[] = fe_block
+dependencies[] = masquerade_nominate
+dependencies[] = masquerade
+dependencies[] = module_filter
+dependencies[] = simplewiki
+dependencies[] = uuid
+dependencies[] = uuid_features
+dependencies[] = views
+dependencies[] = views_ui
+
+
+; own
