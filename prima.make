@@ -2,6 +2,7 @@ api = 2
 core = 7.x
 
 includes[] = basemodules.make
+includes[] = prima_add.make
 
 ; for copy + edit
 ;projects[][subdir] = contrib
