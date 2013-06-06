@@ -4,9 +4,9 @@ core = 7.x
 includes[] = basemodules.make
 
 ; for copy + edit
-;projects[][subdir] = contrib
 ;projects[][version] = ""
 
+defaults[projects][subdir] = contrib
 
 ; extra modules
 projects[uuid][version] = "1.0-alpha3"
