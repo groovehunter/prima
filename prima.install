@@ -4,7 +4,7 @@
  * Implements hook_install().
  */
 
-function openspirit_install() {
+function prima_install() {
 //  theme_enable(array('rubik'));
 //  variable_set('theme_default', 'rubik');
 
