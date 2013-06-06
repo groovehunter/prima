@@ -28,11 +28,12 @@ projects[addressfield][version] = "1.0-beta4"
 projects[addressfield_tokens][version] = "1.3"
 
 projects[cck_phone][version] = "1.x-dev"
-projects[crm_core][version] = "development-dev"
+projects[crm_core][version] = "1.x-dev"
 projects[date][version] = "2.6"
 projects[email][version] = "1.2"
 
 projects[entityreference][version] = "1.0"
+projects[entitydependency][version] = "1.0-alpha"
 projects[feeds][version] = "2.0-alpha"
 projects[feeds_tamper][version] = "1.0-beta4"
 projects[field_group][version] = "1.1"
