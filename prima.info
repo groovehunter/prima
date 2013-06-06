@@ -5,13 +5,20 @@ description = groovehunter's install profile based on buildkit
 ; Core
 dependencies[] = book
 dependencies[] = block
+dependencies[] = comment
 dependencies[] = dblog
+dependencies[] = field
+dependencies[] = field_sql_storage
 dependencies[] = field_ui
-dependencies[] = file
+;dependencies[] = file
+dependencies[] = filter
+dependencies[] = image
+dependencies[] = list
 dependencies[] = locale
 dependencies[] = menu
 dependencies[] = number
 dependencies[] = path
+dependencies[] = search
 dependencies[] = taxonomy
 
 ; Contrib
