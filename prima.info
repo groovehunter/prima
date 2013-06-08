@@ -14,19 +14,6 @@ dependencies[] = menu
 dependencies[] = number
 dependencies[] = taxonomy
 
-; Contrib
-dependencies[] = admin_menu
-dependencies[] = ctools
-dependencies[] = devel
-dependencies[] = entity
-dependencies[] = entity_dependency
-dependencies[] = entity_token
-
-dependencies[] = views
-dependencies[] = views_ui
-
-
-; own
 ; crm
 dependencies[] = crm_core
 dependencies[] = crm_core_activity
@@ -37,9 +24,5 @@ dependencies[] = crm_core_default_matching_engine
 dependencies[] = crm_core_match
 dependencies[] = crm_core_relationship
 dependencies[] = crm_core_relationship_ui
-dependencies[] = date
-dependencies[] = date_api
-dependencies[] = date_popup
-dependencies[] = date_views
 
 
