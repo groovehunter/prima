@@ -9,5 +9,5 @@ includes[] = http://drupalcode.org/project/buildkit.git/blob_plain/refs/heads/7.
 projects[prima][type] = profile
 projects[prima][download][type] = git
 projects[prima][download][url] = https://github.com/groovehunter/prima.git
-projects[prima][download][branch] = master
+projects[prima][download][branch] = minimal
 
