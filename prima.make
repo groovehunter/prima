@@ -53,7 +53,8 @@ projects[name][version] = "1.9"
 
 projects[openlayers][version] = "2.0-beta7"
 projects[proj4js][version] = "1.2"
-projects[relation][version] = "1.0-rc4"
+;pprojects[relation][version] = "1.0-rc4"
+pprojects[relation][version] = "1.x-dev"
 projects[token][version] = "1.5"
 
 
