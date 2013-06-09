@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the prima_crm_contact_types feature.
+ */
+
+include_once 'prima_crm_contact_types.features.inc';
