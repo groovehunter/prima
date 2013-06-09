@@ -31,7 +31,7 @@ dependencies[] = crm_core_contact
 dependencies[] = crm_core_contact_ui
 dependencies[] = crm_core_default_matching_engine
 dependencies[] = crm_core_match
-dependencies[] = crm_core_relationship
-dependencies[] = crm_core_relationship_ui
-dependencies[] = relation
+;dependencies[] = crm_core_relationship
+;dependencies[] = crm_core_relationship_ui
+;dependencies[] = relation
 
