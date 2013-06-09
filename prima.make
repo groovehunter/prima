@@ -39,7 +39,8 @@ projects[feeds_tamper][version] = "1.0-beta4"
 projects[field_group][version] = "1.1"
 
 projects[geocoder][version] = "1.2"
-projects[geofield][version] = "2.0-alpha2+7-dev"
+projects[geofield][version] = "2.0-alpha2"
+;projects[geofield][version] = "2.0-alpha2+7-dev"
 projects[geophp][version] = "1.7"
 
 projects[homebox][version] = "2.0-beta6"
