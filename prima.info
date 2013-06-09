@@ -59,6 +59,7 @@ dependencies[] = views_ui
 ; crm
 dependencies[] = addressfield
 dependencies[] = addressfield_tokens
+dependencies[] = cck_phone
 dependencies[] = crm_core
 dependencies[] = crm_core_activity
 dependencies[] = crm_core_activity_ui
@@ -66,8 +67,8 @@ dependencies[] = crm_core_contact
 dependencies[] = crm_core_contact_ui
 dependencies[] = crm_core_default_matching_engine
 dependencies[] = crm_core_match
-dependencies[] = crm_core_relationship
-dependencies[] = crm_core_relationship_ui
+;dependencies[] = crm_core_relationship
+;dependencies[] = crm_core_relationship_ui
 dependencies[] = date
 dependencies[] = date_api
 dependencies[] = date_popup
@@ -75,7 +76,6 @@ dependencies[] = date_views
 dependencies[] = email
 dependencies[] = link
 dependencies[] = name
-dependencies[] = cck_phone
 
 
 ;geo
@@ -88,14 +88,3 @@ dependencies[] = openlayers_ui
 dependencies[] = openlayers_views
 
 
-
-
-
-
-
-
-
-
-
-
-_

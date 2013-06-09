@@ -1,7 +1,7 @@
 api = 2
 core = 7.x
 
-includes[] = basemodules.make
+includes[] = https://raw.github.com/groovehunter/drupal/master/basemodules.make
 
 ; for copy + edit
 ;projects[][version] = ""
