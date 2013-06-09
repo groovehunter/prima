@@ -40,8 +40,10 @@ dependencies[] = feeds
 dependencies[] = feeds_ui
 dependencies[] = feeds_import
 dependencies[] = feeds_tamper
-dependencies[] = l10n_update
-dependencies[] = libraries
+
+; buggy
+;dependencies[] = l10n_update
+;dependencies[] = libraries
 
 ;dependencies[] = masquerade_nominate
 ;dependencies[] = masquerade
