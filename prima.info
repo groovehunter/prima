@@ -5,14 +5,23 @@ description = Personal Relationships Information MAnagement
 
 ; Core
 dependencies[] = block
+dependencies[] = comment
+dependencies[] = dashboard
 dependencies[] = dblog
 dependencies[] = field
 dependencies[] = field_sql_storage
 dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = filter
+dependencies[] = help
 dependencies[] = list
 dependencies[] = menu
 dependencies[] = number
+dependencies[] = options
+dependencies[] = system
 dependencies[] = taxonomy
+dependencies[] = text
+dependencies[] = user
 
 ; crm
 dependencies[] = crm_core
