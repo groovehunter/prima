@@ -47,7 +47,7 @@ projects[job_scheduler][version] = "2.0-alpha3"
 
 projects[l10n_update][version] = "1.0-beta3"
 
-;projects[libraries][version] = "2.1"
+projects[libraries][version] = "2.1"
 projects[link][version] = "1.1"
 projects[name][version] = "1.9"
 
