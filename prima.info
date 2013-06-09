@@ -1,6 +1,6 @@
-name = Openspirit
+name = Prima
 core = 7.x
-description = groovehunter's install profile based on buildkit
+description = Personal Relationships and Information MAnagement
 
 ; Core
 dependencies[] = book
