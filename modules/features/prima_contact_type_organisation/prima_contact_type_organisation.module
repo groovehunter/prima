@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the prima_contact_type_organisation feature.
+ */
+
+include_once 'prima_contact_type_organisation.features.inc';
