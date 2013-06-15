@@ -34,13 +34,13 @@ projects[date][version] = "2.6"
 projects[email][version] = "1.2"
 
 projects[entityreference][version] = "1.0"
-projects[entity_dependency][version] = "1.0-alpha"
-projects[feeds][version] = "2.0-alpha"
+projects[entity_dependency][version] = "1.0-alpha1"
+projects[feeds][version] = "2.0-alpha8"
 projects[feeds_tamper][version] = "1.0-beta4"
 projects[field_group][version] = "1.1"
 
 projects[geocoder][version] = "1.2"
-projects[geofield][version] = "2.0-dev"
+projects[geofield][version] = "2.x-dev"
 projects[geophp][version] = "1.7"
 
 projects[homebox][version] = "2.0-beta6"
