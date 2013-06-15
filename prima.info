@@ -49,6 +49,7 @@ dependencies[] = feeds_tamper
 ;dependencies[] = masquerade
 dependencies[] = module_filter
 dependencies[] = simplewiki
+dependencies[] = strongarm
 dependencies[] = token
 
 dependencies[] = uuid
